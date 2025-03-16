@@ -3,7 +3,7 @@
 Innoscripta Documention
 
 1)	Laravel Version: Laravel v11.44.2 
-2)	News Api Used: BBC News , New York Times and NewsAPI.org
+2)	3 News Api Used: BBC News , New York Times and NewsAPI.org
 3)	Database: innoscriptav11 (https://github.com/Arti-Rawat/innoscripta/blob/master/innoscriptav11.sql)
 4)	Api endpoints:
 5)	http://localhost/innoscriptaV11/api/news
