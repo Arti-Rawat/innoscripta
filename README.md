@@ -6,7 +6,7 @@ Innoscripta Documention
 2)	3 News Api Used: NewsAPI.org , BBC News and New York Times  
 3)	api1 = https://newsapi.org/v2/top-headlines?language=en&apiKey=66f0d2224f7b4b6ea9ffc433dc855a03;
 4)	api2 = https://bbc-api.vercel.app/news?lang=english;
-5)	api3 = https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key='Key_Here';
+5)	api3 = https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key=JzU4IdMzer5Rpo1XJXlVVRcbKy78GNLq;
 6)	Database: innoscriptav11 (https://github.com/Arti-Rawat/innoscripta/blob/master/innoscriptav11.sql)
 7)	Api endpoints:
 8)	http://localhost/innoscriptaV11/api/news
