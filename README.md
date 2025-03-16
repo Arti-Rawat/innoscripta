@@ -12,6 +12,7 @@ Innoscripta Documention
 8)	 http://localhost/innoscriptaV11/api/news/source=CNN
 9)	 http://localhost/innoscriptaV11/api/news/author=F1
 10)	php artisan schedule:work 
+
 Run artisan command for Scheduler: for Automatic Updating News Data from Api 
 
 
