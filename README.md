@@ -15,6 +15,9 @@ Innoscripta Documention
 11)	Run above artisan schedule command for Scheduler: for Automatic Updating News Data from Api
 12)	Select Home to view all news
 13)	Select filter to view news based on filter
+14)	https://github.com/Arti-Rawat/innoscripta
+15)	https://github.com/Arti-Rawat/innoscripta/tree/master
+
 
 
         
