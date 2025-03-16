@@ -4,9 +4,9 @@ Innoscripta Documention
 
 1)	Laravel Version: Laravel v11.44.2 
 2)	3 News Api Used: BBC News , New York Times and NewsAPI.org
-3)	$api1 = 'https://newsapi.org/v2/top-headlines?language=en&apiKey=66f0d2224f7b4b6ea9ffc433dc855a03';
-4)	$api2 = 'https://bbc-api.vercel.app/news?lang=english';
-5)	$api3 = 'https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key="Key_Here"';
+3)	api1 = https://newsapi.org/v2/top-headlines?language=en&apiKey=66f0d2224f7b4b6ea9ffc433dc855a03;
+4)	api2 = https://bbc-api.vercel.app/news?lang=english;
+5)	api3 = https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key='Key_Here';
 6)	Database: innoscriptav11 (https://github.com/Arti-Rawat/innoscripta/blob/master/innoscriptav11.sql)
 7)	Api endpoints:
 8)	http://localhost/innoscriptaV11/api/news
