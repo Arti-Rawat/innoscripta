@@ -13,7 +13,7 @@ class NewsController extends Controller
         // Define API endpoints
         $api1 = 'https://newsapi.org/v2/top-headlines?language=en&apiKey=66f0d2224f7b4b6ea9ffc433dc855a03';
         $api2 = 'https://bbc-api.vercel.app/news?lang=english';
-        $api3 = 'https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key=JzU4IdMzer5Rpo1XJXlVVRcbKy78GNLq';
+        $api3 = 'https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key=';
 
         // Fetch data from API 1 : NewsAPI.org
         $response1 = Http::get($api1);
